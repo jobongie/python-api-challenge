@@ -14,11 +14,13 @@ removed cities with humidity at or above 100% varied between 6 and 16 cities, an
 
 ### PLOTS**
 **Latitude vs. Temperature Plot**
+
 """This graph shows a general trend of higher temperatures closer 
 to the equator, with declining temps as the latitudes move to 
 the polar regions"""
 
 **Latitude vs. Humidity Plot**
+
 """I don't see a trend that stands out here, the data really only
 tells me that their are more cities that have a 60% to %80 relative 
 humidity. If I had to guess I would say that correlates with most 
@@ -26,12 +28,14 @@ of worlds population living next to a body of water or where water
 is readily available."""
 
 **Latitude vs. Cloudiness Plot**
+
 """The consistency of straight lines at the cloudiness %
 at 0, 20, 40, 75, and 100 tells me a person looks outside and says
 yeah today looks about this amount of cloudy and is thus a qualitative
 value rather than a quantitative one."""
 
 **Latitude vs. Wind Speed Plot**
+
 """Their are more cities in the northern hemishpere that are concentrated
 around the lats of 20 40 and 60. They are also concentrated at wind speeds 
 of around 5mph, suggesting that something moderates the wind speeds. I 
