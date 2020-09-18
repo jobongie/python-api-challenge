@@ -96,10 +96,10 @@ Created heat_layer with gmaps using humidity as weight
 
 Figure with heatlayer overlayed saved as png in **images** folder under **fig_vacationpy**
 
-narrowed_city_df created based on conditions windspeed < 35, cloudiness <20%,
+**narrowed_city_df** created based on conditions windspeed < 35, cloudiness <20%,
 and temp between 60 and 75 degrees f
 
-hotel_df created to find Hyatt hotels within a 5k radius of city using gmaps
+**hotel_df** created to find Hyatt hotels within a 5k radius of city using gmaps
 
 Created marker_symbol layer overlayed on fig then saved in **images** folder under
 the name **fig_2_vacationpy**
