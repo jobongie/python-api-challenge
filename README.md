@@ -46,18 +46,22 @@ consistent but of low speed."""
 ### Linear Regression**
 **Northern Hemisphere - Max Temp vs. Latitude Linear Regression**
 Saved in folder **images** under **north_temp_lat**
+
 """There is a direct correlation between latitude and temperature"""
 
 **Southern Hemisphere - Max Temp vs. Latitude Linear Regression**
 Saved in folder **images** under **north_temp_lat**
+
 """There is a direct correlation between latitude and temperature."""
 
 **Northern Hemisphere - Humidity (%) vs. Latitude Linear Regression**
 Saved in folder **images** under **north_hum_lat**
+
 """No correlation between latitude and humidity"""
 
 **Southern Hemisphere - Humidity (%) vs. Latitude Linear Regression**
 Saved in folder **images** under **south_hum_lat**
+
 """No correlation between latitude and humidity"""
 
 **Northern Hemisphere - Cloudiness (%) vs. Latitude Linear Regression**
@@ -66,14 +70,17 @@ Saved in folder **images** under **north_cloud_lat**
 
 **Southern Hemisphere - Cloudiness (%) vs. Latitude Linear Regression**
 Saved in folder **images** under **south_cloud_lat**
+
 """No correlation between cloudiness and latitude"""
 
 **Northern Hemisphere - Wind Speed (mph) vs. Latitude Linear Regression**
 Saved in folder **images** under **north_wind_lat**
+
 """no correlation between lattitude and wind speed"""
 
 **Southern Hemisphere - Wind Speed (mph) vs. Latitude Linear Regression**
 Saved in folder **images** under **south_wind_lat**
+
 """No correlation between latitude and wind speed"""
 
 
